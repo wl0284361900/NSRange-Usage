@@ -10,7 +10,7 @@ NSUInteger length : 表示該範圍內的長度
 
 ---
 
-##創建NSRange
+## 創建NSRange
 
 方法一：
 NSRange range ; // 結構體變量
